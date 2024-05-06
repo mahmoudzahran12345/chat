@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054379005525",
+    "project_id": "heass-c610b",
+    "storage_bucket": "heass-c610b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054379005525:android:c258faf09ee0d3df6d66dc",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054379005525-623rjm4e29b6lpb36ca11a1tg1tcp1rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1lbNELMmVNBXfehR4qkF1oN9L7dgkULE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054379005525-623rjm4e29b6lpb36ca11a1tg1tcp1rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
